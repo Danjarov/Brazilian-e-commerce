@@ -1,4 +1,4 @@
-# e-commerce-project
+# Brazilian e-commerce
 
 Когортный и RFM-анализ Бразильских маркетплейсов
 
